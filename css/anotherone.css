@@ -1,0 +1,50 @@
+.project-text{
+color: limegreen;
+font-family: cursive;
+}
+.card:hover{
+	background-color: limegreen !important;
+}
+#angel-tree{
+	background: url("../angel.png");
+	background-size: cover;
+}
+#sesame{
+	background: url("../sesame.png");
+	background-size: cover;
+}
+#skip{
+	background: url("../skip.png");
+	background-size: cover;
+}
+#AFOI{
+	background: url("../AFOI.png");
+	background-size: c;
+}
+#COI{
+	background: url("../COI.png");
+	background-size: cover;
+}
+#forever{
+	background: url("../forever.png");
+	background-size: 300px;
+}
+#hour{
+	background: url("../hour.png");
+	background-size: cover;
+}
+.featured-text{
+	color: limegreen;
+	font-family: cursive;
+}
+#bars{
+	height: 500px;
+	width: auto;
+}
+#images{
+	height: 500px;
+	width: auto;
+}
+.card{
+	background-color: limegreen;
+}
